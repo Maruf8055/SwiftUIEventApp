@@ -7,9 +7,9 @@ While trying to discover local events, I realized that many people face difficul
 This SwiftUI Event Management App solves these issues by providing a simple, intuitive platform for users to browse and join local events. The app offers user authentication, event listings, and a custom calendar to track events. This approach allows users to easily keep their event plans organized.
 
 ## Technologies Used
-SwiftUI: For building the user interface.
-Xcode: The development environment for iOS applications.
-Figma: For designing the app's UI/UX, ensuring a user-friendly experience.
+1) SwiftUI: For building the user interface.
+2) Xcode: The development environment for iOS applications.
+3) Figma: For designing the app's UI/UX, ensuring a user-friendly experience.
 
 ## How to Run the App:
 1. Clone the Repository
