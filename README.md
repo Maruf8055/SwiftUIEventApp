@@ -1,5 +1,5 @@
 # SwiftUIEventApp
-wiftUI Event Management App
+SwiftUI Event Management App
 Problem Discovery:
 While trying to discover local events, I realized that many people face difficulties in quickly finding, joining, and tracking events in their area. Many existing apps are either too cluttered or lack simple user flows for easy event management.
 
